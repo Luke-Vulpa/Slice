@@ -1,0 +1,5 @@
+F:\Software Development\Slice\Slice\bin\Debug\Slice.exe.config
+F:\Software Development\Slice\Slice\bin\Debug\Slice.exe
+F:\Software Development\Slice\Slice\bin\Debug\Slice.pdb
+F:\Software Development\Slice\Slice\obj\Debug\Slice.exe
+F:\Software Development\Slice\Slice\obj\Debug\Slice.pdb
